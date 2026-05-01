@@ -6,3 +6,4 @@ log.*
 *.ini
 *dropbox*
 *.org
+constant/polyMesh/
