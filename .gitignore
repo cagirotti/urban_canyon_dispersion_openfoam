@@ -1,0 +1,8 @@
+postProcessing/
+processor*/
+[1-9]*
+*.foam
+log.*
+*.ini
+*dropbox*
+*.org
